@@ -1,7 +1,7 @@
 {
     "CRM-backend": {
         "repo": "git@github.com:ioneldumitru04-rgb/Snapshots.git",
-        "revision"
+        "revision": ""
     },
     "CRM-frontend": {
         "repo": "git@github.com:ioneldumitru04-rgb/Snapshots.git",
