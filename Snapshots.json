@@ -1,10 +1,10 @@
 {
     "CRM-backend": {
-        "repo": "git@github.com:ioneldumitru04-rgb/Snapshots.git",
+        "repo": "git@github.com:ioneldumitru04-rgb/CRM-backend.git",
         "revision": ""
     },
     "CRM-frontend": {
-        "repo": "git@github.com:ioneldumitru04-rgb/Snapshots.git",
+        "repo": "git@github.com:ioneldumitru04-rgb/CRM-frontend.git",
         "revision": ""
     }
 }
